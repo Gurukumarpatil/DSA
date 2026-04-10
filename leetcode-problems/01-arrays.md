@@ -21,10 +21,11 @@
 17. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 18. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 19. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+20. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
+---
 
-
-    ## Medium
+## Medium
 
 1. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 2. [3Sum](https://leetcode.com/problems/3sum/)
@@ -40,3 +41,12 @@
 12. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 13. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 14. [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
+
+---
+
+## Hard
+
+1. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+2. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+3. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+4. [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
